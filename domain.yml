@@ -11,6 +11,7 @@ intents:
   - wellness_advice
   - bot_challenge
   - out_of_scope
+  - disease_outbreak_inquiry
 
 entities:
   - symptom
@@ -36,6 +37,7 @@ responses:
 actions:
   - action_health_advice_multilingual
   - action_symptom_checker_multilingual
+  - action_disease_outbreak_info
 
 session_config:
   session_expiration_time: 60

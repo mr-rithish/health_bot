@@ -168,3 +168,38 @@ nlu:
     - వాతావరణం ఎలా ఉంది?
     - జోక్ చెప్పండి
     - మందు రాయండి
+
+- intent: disease_outbreak_inquiry
+  examples: |
+    - what are the current disease outbreaks?
+    - tell me about recent disease outbreaks
+    - any disease outbreaks in my state?
+    - current health alerts
+    - disease outbreak information
+    - latest disease surveillance reports
+    - epidemic information
+    - health emergency updates
+    - infectious disease outbreaks
+    - IDSP reports
+    - ministry of health outbreak data
+    - weekly disease surveillance
+    - recent epidemic alerts
+    - disease outbreak in india
+    - state wise disease outbreaks
+    - मेरे राज्य में कोई बीमारी का प्रकोप है?
+    - वर्तमान बीमारी प्रकोप की जानकारी
+    - हाल की महामारी की रिपोर्ट
+    - स्वास्थ्य मंत्रालय की रिपोर्ट
+    - रोग निगरानी रिपोर्ट
+    - संक्रामक रोग प्रकोप
+    - मेरे राज्य में हाल का रोग प्रकोप?
+    - బీమారి వ్యాప్తి గురించి చెప్పండి
+    - నా రాష్ట్రంలో ఏమైనా వ్యాధి వ్యాప్తి ఉందా?
+    - ప్రస్తుత ఆరోగ్య హెచ్చరికలు
+    - వ్యాధి వ్యాప్తి సమాచారం
+    - తాజా వ్యాధి నిఘా నివేదికలు
+    - మహమ్మారి సమాచారం
+    - అంటు వ్యాధుల వ్యాప్తి
+    - ఆరోగ్య మంత్రిత్వ శాఖ డేటా
+    - వారపు వ్యాధి నిఘా
+    - రాష్ట్రవారీ వ్యాధి వ్యాప్తి

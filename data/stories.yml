@@ -50,3 +50,17 @@ stories:
   - action: action_health_advice_multilingual
   - intent: goodbye
   - action: utter_goodbye
+
+- story: disease outbreak inquiry
+  steps:
+  - intent: disease_outbreak_inquiry
+  - action: action_disease_outbreak_info
+
+- story: disease outbreak conversation
+  steps:
+  - intent: greet
+  - action: utter_greet
+  - intent: disease_outbreak_inquiry
+  - action: action_disease_outbreak_info
+  - intent: goodbye
+  - action: utter_goodbye
